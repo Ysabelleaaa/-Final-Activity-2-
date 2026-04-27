@@ -1,6 +1,6 @@
 <?php
 
-echo "Activity 4:"
+echo "Activity 4:";
 $name = "Ana";
 $age = 18;
 
