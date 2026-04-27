@@ -1,0 +1,13 @@
+<?php
+
+echo "Activity 7:"
+$a = 10;
+$b = 5;
+
+echo "Is a > b? ";
+var_dump($a > $b);
+
+echo "<br>Is a == b? ";
+var_dump($a == $b);
+
+?>
