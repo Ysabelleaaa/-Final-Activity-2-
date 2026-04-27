@@ -1,5 +1,6 @@
 <?php
 
+echo "Activity 6:";
 $x = 5;
 $x += 3;
 
