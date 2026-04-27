@@ -1,8 +1,8 @@
 <?php
 
 echo "Activity 6:";
-$x = 5;
-$x += 3;
+$x = 8;
+$x += 11;
 
 echo "Assignment Result: " . $x . "<br><br>";
 
