@@ -9,3 +9,4 @@ echo "Assignment Result: " . $x . "<br><br>";
 ?>
 
 Question: What will be the output?
+answer: 8
