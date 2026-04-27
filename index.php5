@@ -1,8 +1,8 @@
 <?php
 
 echo "Activity 5:";
-$a = 10;
-$b = 3;
+$a = 13;
+$b = 21;
 
 echo "Addition: " . ($a + $b) . "<br>";
 echo "Subtraction: " . ($a - $b) . "<br>";
