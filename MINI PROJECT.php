@@ -1,6 +1,9 @@
 # -Final-Activity-2-
+
 <?php
-echo "MINI-PROJECT: Calculator";
+/* MINI-PROJECT: Calculator 
+*/
+
 $num1 = 11;
 $num2 = 13;
 
